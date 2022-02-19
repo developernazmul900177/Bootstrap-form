@@ -1,0 +1,56 @@
+.container-fluid{
+    background-color: rgb(175, 31, 204);
+    height: 100vh;
+}
+form{
+    background: linear-gradient(to left, #75a0ad, #5E8CDA);
+    
+}
+.all{
+    margin-top: 50px;
+    padding: 0px 80px;
+}
+h1{
+    font-size: 45px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 50px;
+	text-transform:uppercase;
+}
+.f-name{
+    border: none;
+    outline: none;
+    width: 240px;
+    margin-right: 20px;
+}
+.l-name{
+    border: none;
+    outline: none;
+    margin-left: 0px;
+    width: 240px;
+    float: right;
+    margin-top: -38px;
+}
+
+.form-check{
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 25%;
+}
+.check{
+    color: #0501fd;
+}
+.btn{
+    background-color: #00F0FC;
+    width: 150px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+}
+.btn:hover{
+    background-color: #41ebbd;
+    color: #fff;
+}
